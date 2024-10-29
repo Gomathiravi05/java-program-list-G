@@ -1,6 +1,6 @@
 package controlstatements;
 
-public class returnstate {
+public class Returnstate {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

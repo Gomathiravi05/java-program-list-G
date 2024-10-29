@@ -1,6 +1,6 @@
 package controlstatements;
 
-public class continuelable {
+public class Continuelable {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

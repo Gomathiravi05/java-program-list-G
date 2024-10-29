@@ -2,7 +2,7 @@ package controlstatements;
 
 import java.io.IOException;
 
-public class controlmenu {
+public class Controlmenu {
    public static void main(String args[]) throws IOException {
 	char choice ; 
 	do {

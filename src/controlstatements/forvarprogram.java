@@ -1,6 +1,6 @@
 package controlstatements;
 
-public class forvarprogram {
+public class Forvarprogram {
 
 	 public static void main(String args[]) {
 			

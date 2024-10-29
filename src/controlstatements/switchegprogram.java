@@ -1,6 +1,6 @@
 package controlstatements;
 
-public class switchegprogram {
+public class SwitchEgprogram {
 
 	public static void main(String args[]) {
 		int month=4;

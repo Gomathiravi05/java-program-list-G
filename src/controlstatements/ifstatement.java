@@ -1,6 +1,6 @@
 package controlstatements;
 
-public class ifstatement {
+public class Ifstatement {
 
 	public static void main(String[] args)
 	{

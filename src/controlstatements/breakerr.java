@@ -1,6 +1,6 @@
 package controlstatements;
 
-public class breakerr {
+public class Breakerr {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

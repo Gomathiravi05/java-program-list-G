@@ -1,6 +1,6 @@
 package controlstatements;
 
-public class breakloop {
+public class Breakloop {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

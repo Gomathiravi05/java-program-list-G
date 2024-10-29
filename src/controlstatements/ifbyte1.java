@@ -1,6 +1,6 @@
 package controlstatements;
 
-public class ifbyte1 {
+public class Ifbyte1 {
 	public static void main(String[] args)
 	{
 		boolean dataAvailable = false;

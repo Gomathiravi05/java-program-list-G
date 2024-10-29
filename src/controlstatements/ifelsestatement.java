@@ -1,6 +1,6 @@
 package controlstatements;
 
-public class ifelsestatement {
+public class Ifelsestatement {
  public static void main(String args[])
  {
 	 int month=4;

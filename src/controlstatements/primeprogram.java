@@ -1,6 +1,6 @@
 package controlstatements;
 
-public class primeprogram {
+public class Primeprogram {
  public static void main(String args[]) {
 	 int num;
 	 boolean prime;

@@ -1,6 +1,6 @@
 package controlstatements;
 
-public class commaeg {
+public class CommaEg {
 
 	public static void main(String[] args) {
 		

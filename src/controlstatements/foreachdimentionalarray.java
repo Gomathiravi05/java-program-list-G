@@ -1,6 +1,6 @@
 package controlstatements;
 
-public class foreachdimentionalarray {
+public class Foreachdimentionalarray {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

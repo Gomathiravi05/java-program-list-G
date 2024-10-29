@@ -1,6 +1,6 @@
 package controlstatements;
 
-public class switchstring {
+public class Switchstring {
   public static void main(String args[]) {
 	 String str="two";
 	   //String str="five";

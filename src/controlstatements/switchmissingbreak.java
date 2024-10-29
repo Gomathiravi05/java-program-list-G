@@ -1,6 +1,6 @@
 package controlstatements;
 
-public class switchmissingbreak {
+public class Switchmissingbreak {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
