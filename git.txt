@@ -1,0 +1,12 @@
+git commit -m "first commit"
+
+git remote add origin https://github.com/Gomathiravi05/java-program-list-G.git
+git branch -M main
+git push -u origin main
+
+------------------------
+c:(optional)
+cd C:\Users\ELCOT\.eclipse\logicalprogram\newprograms
+git add -A .
+git commit -m "first commit"
+git push -u origin main
