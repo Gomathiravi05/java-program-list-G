@@ -5,10 +5,9 @@ import java.util.Stack;
 public class TestStackEg {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-		Stack mystack1=new Stack();
-		Stack mystack2=new Stack();
+	
+		StackEgprogram mystack1=new StackEgprogram();
+		StackEgprogram mystack2=new StackEgprogram();
 		
 		for(int i=0;i<10;i++)
 			mystack1.push(i);
