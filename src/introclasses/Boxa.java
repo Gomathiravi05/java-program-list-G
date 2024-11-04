@@ -40,7 +40,6 @@ public class Boxa {
     }
     /**
      * Validates that a dimension is positive.
-     * 
      * @param dimensionName The name of the dimension being validated
      * @param value The value to validate
      * @throws IllegalArgumentException if the value is negative or zero
