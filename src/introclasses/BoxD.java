@@ -13,13 +13,15 @@ public class BoxD {
     double height;
     double depth;
 /**
- * This method to assign value to the attributes 
+ * This is the parameterless constructor of BoxD
+ * The attributes of the object is assigned value 10 as initial dimension
  */
     BoxD() {
     	System.out.println("Constructing Box");
-    	this.width=10;
-    	this.height=10;
-    	this.depth=10;
+    	final double INITIAL_VALUE=10;
+    	this.width=INITIAL_VALUE;
+    	this.height=INITIAL_VALUE;
+    	this.depth=INITIAL_VALUE;
     }
     /**
      * Calculate the volume of a box by multipling width,height and depth

@@ -8,9 +8,9 @@ package introclasses;
  */
 public class Boxa {
 	// Attributes of the class. Global variables 
-    double width;
-    double height;
-    double depth;
+     private double width;
+     private double height;
+     private double depth;
 /**
  * Calculate the volume of a box by multipling width,height and depth
  * @return the volume of the box 
